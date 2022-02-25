@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from Barkshire of an apparition of several ships and men in the air, which seemed to the beholders to be fighting they were seen by the carrier of Cirencester and his company, as they were upon the road coming for London, near Abbington, on Tuesday the 26th of August, 1679 : of the truth of which you may be fully satisfied at the Sarazens Head Inn in Carter-Lane, London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61778</idno>
+            <idno type="STC">Wing S5887</idno>
+            <idno type="STC">ESTC R727</idno>
+            <idno type="EEBO-CITATION">11944978</idno>
+            <idno type="OCLC">ocm 11944978</idno>
+            <idno type="VID">51311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from Barkshire of an apparition of several ships and men in the air, which seemed to the beholders to be fighting they were seen by the carrier of Cirencester and his company, as they were upon the road coming for London, near Abbington, on Tuesday the 26th of August, 1679 : of the truth of which you may be fully satisfied at the Sarazens Head Inn in Carter-Lane, London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51311:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>Strange News FROM BARKSHIRE, OF AN APPARITION Of ſeveral SHIPS and MEN in the AIR, Which ſeemed to the Beholders to be FIGHTING</head>
+            <head type="sub">They were ſeen by the Carrier of <hi>Cirenceſter</hi> and his Company, as they were upon the Road coming for <hi>London,</hi> near <hi>Ab<g ref="char:EOLhyphen"/>bington,</hi> on <date>
+                  <hi>Tueſday</hi> the 26th of <hi>Auguſt,</hi> 1679.</date>
+            </head>
+            <head type="sub">Of the truth of which you may be fully ſatisfied at the <hi>Sara<g ref="char:EOLhyphen"/>zens</hi> Head Inn in <hi>Carter-Lane, London</hi>
+            </head>
+            <p>MAny have been the Signs and Wonders of late, that God hath been pleaſed, to declare himſelf by to this Nation, as the late Blazing Stars, the Effects that ſucceeded them, are never to be forgot; and notwithſtand<g ref="char:EOLhyphen"/>ing his many Juſt Judgments Inflicted upon us, yet we retain
+<pb n="2" facs="tcp:51311:2"/>
+               <!-- PDF PAGE 8 -->
+the ſame (nay rather Improve in all manners of) Debauch<g ref="char:EOLhyphen"/>eries and Wickedneſs, that nothing but the Omnipotent Power of a Merciful God could have preſerved us from utter Deſolation. The late Apparitions that were obſerved by ſe<g ref="char:EOLhyphen"/>veral perſons in and about the City of London, and alſo by ſome Watermen and paſſengers as they were upon the <hi>Thames</hi> I will not undertake to prognoſticate their Meaning, but adviſe all people that wiſh well to their preſent as well as fu<g ref="char:EOLhyphen"/>ture State, to lay theſe things to heart, and to enquire in themſelves the cauſe of ſuch Viſitations, and ſeriouſly repent them of their paſt Miſ-ſpent time, and poſſibly God may di<g ref="char:EOLhyphen"/>vert his Judgments that hang over our heads.</p>
+            <p>On <hi>Tueſday</hi> the 26th. of <hi>Auguſt,</hi> one <hi>John Nibb,</hi> a ve<g ref="char:EOLhyphen"/>ry ſober Fellow, and Servant to one <hi>Shearles,</hi> the Carrier of <hi>Cirenceſter,</hi> accompanied with five Paſſengers, about 2 Mile Eaſtward of <hi>Abbington,</hi> on their way to <hi>London,</hi> The Sun had not roſe hardly a quarter of an hour, but towards the South part of the Horrizon appeared the perfect ſimi<g ref="char:EOLhyphen"/>litude of a tall Man in blackiſh Habit, his right hand guarded with a Broad Sword, ſtretched towards the South, and walked ſlowly that way, all which was ſeen by the Parties above named, but it ſoon vaniſhed, and in it's place the Sky Appeared in the Form of Water or Sea and Fiſhes of Divers ſhapes were perfectly diſcerned to leap as it were out of the Water, and fall into it again; it then looking as in a Perfect Calm at Sea, which on a ſuddain began to be a little diſturbed, as if with Wind, and im<g ref="char:EOLhyphen"/>mediately upon that appeared about 100 Ships of ſeveral bigneſſes and ſeveral Faſhions of Building; out of which Fleet was diſcerned ſome ſmall Ships that continually ſail<g ref="char:EOLhyphen"/>ed to and from the Fleet, as if they had been ſent out as advice Ships, or had come in to give account of the condition of an Enemy; this Fleet continued in per<g ref="char:EOLhyphen"/>fect view near a quarter of an hour, to the great amaze<g ref="char:EOLhyphen"/>ment of the beholders; after which the Sky was for
+<pb n="3" facs="tcp:51311:2"/>
+               <!-- PDF PAGE 8 -->
+ſome time perfect Clear, and then appeared the perfect form of a very great Hill, whereon was diſcerned in ſe<g ref="char:EOLhyphen"/>veral places the Forms or Repreſentations of little Villages and ſeveral Woods, but the moſt part of the hill was plain or Rockey; on the plain part of it was clearly diſcern<g ref="char:EOLhyphen"/>ed about thirty Horſe-men, well Armed with Piſtols and Carbines, <hi>&amp;c.</hi> and Marched on the plain ſide of the hill towards the Villages upon a full Trot, and by the ſhadow of a riſing ground from the ſaid Hill the ſight of them was quickly loſt, and the Sky as it were foulded it ſelf up, and the hill diſappeared. This Re<g ref="char:EOLhyphen"/>lation will ſeem ſtrange to many people what the ef<g ref="char:EOLhyphen"/>fects of it will be, but it's certain the apparition was not in vain: Many may object it was only the fancy of a whimſical Brain; to ſuch I anſwer, that it's not poſſible for 6 Perſons of different Conſtitutions to be all ſeized with one and the ſame impediment at one and the ſame time, and which is more, the people were all in perfect health and ſound Memory; and if the Curious are pleaſed to further ſatisfy themſelves with the truth of this Relation, they may repair to Mr. <hi>Curtice</hi> In-holder, who keeps the <hi>Sarrazens-head-Inn,</hi> in <hi>Carter-Lane</hi> near the <hi>Old Change,</hi> and he or any ſervant in the Houſe, will ſa<g ref="char:EOLhyphen"/>tisfy, you of the whole matter, they being all ear wit<g ref="char:EOLhyphen"/>neſſes to the foreſaid Relation, which will be attteſted if required.</p>
+            <p>Wherefore I ſay once more ſuch kind of Viſits as theſe ought not to be ſlightly paſſed by, without any notice tak<g ref="char:EOLhyphen"/>en of them, but all of us ought with Prayers and Tears to ſupplicate him that ſent them, to turn away that Wrath which they Preſage, that he would bleſſe our Gracious King, and all that are in Office and Authority under him, and once more Reſtore this Nation to a perfect uni<g ref="char:EOLhyphen"/>ty and concord, without which We muſt Expect nothing but continual Judgments upon us.</p>
+            <pb n="4" facs="tcp:51311:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <p>Theſe things ſhould alſo quicken and ſtir up the peo<g ref="char:EOLhyphen"/>ple of God in their Duties towards him, and to break forth into admiration with the Apoſtle St. <hi>Paul,</hi> ſaying, <q>O the depth of the Riches both of the wiſdom and good<g ref="char:EOLhyphen"/>neſs of God, how unſearchable are his Judgments, and his ways paſt finding out.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
